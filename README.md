@@ -98,7 +98,8 @@ This is a local compatibility workaround, not an upstream RB4InstrumentMapper re
 
 ## Upstream status
 
-A proposed technical report is in [UPSTREAM-REPORT.md](UPSTREAM-REPORT.md).
-It has not been posted. This repository does not claim to fix all GameInput versions.
+The technical report in [UPSTREAM-REPORT.md](UPSTREAM-REPORT.md) was
+[posted to issue #71](https://github.com/TheNathannator/RB4InstrumentMapper/issues/71#issuecomment-5600867756).
+This repository does not claim to fix all GameInput versions.
 From a source checkout, run Build-Proxy.ps1 before Install-Fix.ps1; compiled DLLs
 are distributed in release packages rather than committed to Git.

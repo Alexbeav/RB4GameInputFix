@@ -1,4 +1,6 @@
-# Proposed comment for RB4InstrumentMapper issue #71
+# Report submitted to RB4InstrumentMapper issue #71
+
+Posted September 9, 2026: [https://github.com/TheNathannator/RB4InstrumentMapper/issues/71#issuecomment-5600867756](https://github.com/TheNathannator/RB4InstrumentMapper/issues/71#issuecomment-5600867756).
 
 I have a tested, app-local workaround and some detail on where the redirection happens.
 
@@ -43,4 +45,4 @@ PR adding loader/version diagnostics to help investigate a supported fix for the
 newer GameInput runtime? A broader fix should check raw-report behavior and API
 compatibility on current redistributables, rather than depend on these offsets.
 
-I can provide the proxy source, validation scripts, and disassembly details.
+Source, installation/rollback scripts, and validation probes: https://github.com/Alexbeav/RB4GameInputFix (commit 760e5f7). I can also provide further disassembly details.
