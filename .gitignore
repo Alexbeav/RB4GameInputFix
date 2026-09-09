@@ -1,0 +1,14 @@
+# Only source and reviewed documentation belong in this repository.
+*
+!.gitignore
+!.gitattributes
+!README.md
+!UPSTREAM-REPORT.md
+!manifest.json
+!gameinput-proxy.c
+!Build-Proxy.ps1
+!Install-Fix.ps1
+!Undo-Fix.ps1
+!Test-Fix.ps1
+!Test-Native.ps1
+!Test-Package.ps1
